@@ -1,0 +1,11 @@
+# Local credentials -- never commit. Copy config.example.h to config.h instead.
+config.h
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+.DS_Store
